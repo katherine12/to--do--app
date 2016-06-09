@@ -1,0 +1,54 @@
+body{
+	background:#7FFFD4;
+}
+h1{
+	font-weight: bolder;
+}
+.banner{
+	background-image: url(../avion.jpg);
+	background-position: center;
+	padding: 16px;
+	border-top: 3px solid black;
+} 
+#message{
+	width: 95%;
+	height: 50px;
+	margin:16px;
+	border-radius: 12px;
+	border: 2px solid black;
+}
+.glyphicon{
+	color:white;
+	font-weight: 10px;
+	float:right;
+	margin:8px;
+	font-size: 18px;
+}
+button{
+	background-color: #FF4081;
+	color: white;
+	border:none;
+	padding:6px;
+	border-radius: 12px;
+	margin-left: 8px
+}
+p{
+	display: inline-block;
+}
+.mensaje{
+	background-color:#1EC0FF;
+	margin: 5px;
+	border-radius:12px;
+	border:1px dashed #FF00FF ;
+	padding-left: 8px;
+}
+.subrayado{
+	text-decoration: line-through;
+}
+.centro{
+	background:#7FFFD4;
+}
+.tres{
+	height: 400px;
+	overflow-y: scroll;
+}
